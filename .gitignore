@@ -1,0 +1,18 @@
+# data files
+*.png
+*.zip
+*.txt
+*.json
+
+# secrets
+credentials.js
+
+# folders
+scrape-images/*
+scrape-images-reelthumb/*
+scrape-images-pfp/*
+ig-videos/*
+node_modules/*
+userdata/*
+
+.DS_Store
